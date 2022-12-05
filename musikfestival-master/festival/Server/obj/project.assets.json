@@ -1106,36 +1106,35 @@
     ]
   },
   "packageFolders": {
-    "/Users/leor/.nuget/packages/": {}
+    "/Users/Lucas/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leor/musikfes/musikfestival-master/festival/Server/festival.Server.csproj",
+      "projectUniqueName": "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Server/festival.Server.csproj",
       "projectName": "festival.Server",
-      "projectPath": "/Users/leor/musikfes/musikfestival-master/festival/Server/festival.Server.csproj",
-      "packagesPath": "/Users/leor/.nuget/packages/",
-      "outputPath": "/Users/leor/musikfes/musikfestival-master/festival/Server/obj/",
+      "projectPath": "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Server/festival.Server.csproj",
+      "packagesPath": "/Users/Lucas/.nuget/packages/",
+      "outputPath": "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/leor/.nuget/NuGet/NuGet.Config"
+        "/Users/Lucas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/leor/musikfes/musikfestival-master/festival/Client/festival.Client.csproj": {
-              "projectPath": "/Users/leor/musikfes/musikfestival-master/festival/Client/festival.Client.csproj"
+            "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Client/festival.Client.csproj": {
+              "projectPath": "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Client/festival.Client.csproj"
             },
-            "/Users/leor/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj": {
-              "projectPath": "/Users/leor/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj"
+            "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj": {
+              "projectPath": "/Users/Lucas/Desktop/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj"
             }
           }
         }
@@ -1174,7 +1173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
