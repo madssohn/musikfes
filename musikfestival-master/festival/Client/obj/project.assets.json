@@ -1577,11 +1577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leor/Projects/festival/festival/Client/festival.Client.csproj",
+      "projectUniqueName": "/Users/leor/musikfes/musikfestival-master/festival/Client/festival.Client.csproj",
       "projectName": "festival.Client",
-      "projectPath": "/Users/leor/Projects/festival/festival/Client/festival.Client.csproj",
+      "projectPath": "/Users/leor/musikfes/musikfestival-master/festival/Client/festival.Client.csproj",
       "packagesPath": "/Users/leor/.nuget/packages/",
-      "outputPath": "/Users/leor/Projects/festival/festival/Client/obj/",
+      "outputPath": "/Users/leor/musikfes/musikfestival-master/festival/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leor/.nuget/NuGet/NuGet.Config"
@@ -1597,8 +1597,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/leor/Projects/festival/festival/Shared/festival.Shared.csproj": {
-              "projectPath": "/Users/leor/Projects/festival/festival/Shared/festival.Shared.csproj"
+            "/Users/leor/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj": {
+              "projectPath": "/Users/leor/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj"
             }
           }
         }

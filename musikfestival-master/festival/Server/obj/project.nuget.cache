@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d1Uh6BxLUyITlbd7fYei87Ng6wLzkUKBIVceSAR+r8yjSWiFYBCt0oHgWGGDum65uGXhKtB8Q4oBNSVHOd5T1g==",
+  "dgSpecHash": "XaOJeDTNbZFiPPlJZvRejLnpIEWkUHSkk6FNF4I52pWrntpLNHtC2JNcbsjgWq4Bd67uxrFDBUVt2zRlOQBqyA==",
   "success": true,
-  "projectFilePath": "/Users/leor/Projects/festival/festival/Server/festival.Server.csproj",
+  "projectFilePath": "/Users/leor/musikfes/musikfestival-master/festival/Server/festival.Server.csproj",
   "expectedPackageFiles": [
     "/Users/leor/.nuget/packages/microsoft.aspnetcore.authorization/6.0.10/microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "/Users/leor/.nuget/packages/microsoft.aspnetcore.components/6.0.10/microsoft.aspnetcore.components.6.0.10.nupkg.sha512",

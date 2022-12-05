@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = festival.Server
 build_property.RootNamespace = festival.Server
-build_property.ProjectDir = /Users/leor/Projects/festival/festival/Server/
+build_property.ProjectDir = /Users/leor/musikfes/musikfestival-master/festival/Server/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/leor/Projects/festival/festival/Server
+build_property.MSBuildProjectDirectory = /Users/leor/musikfes/musikfestival-master/festival/Server
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/leor/Projects/festival/festival/Server/Pages/Error.cshtml]
+[/Users/leor/musikfes/musikfestival-master/festival/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

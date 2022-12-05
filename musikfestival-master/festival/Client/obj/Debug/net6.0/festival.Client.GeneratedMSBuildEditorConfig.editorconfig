@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = festival.Client
 build_property.RootNamespace = festival.Client
-build_property.ProjectDir = /Users/leor/Projects/festival/festival/Client/
+build_property.ProjectDir = /Users/leor/musikfes/musikfestival-master/festival/Client/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/leor/Projects/festival/festival/Client
+build_property.MSBuildProjectDirectory = /Users/leor/musikfes/musikfestival-master/festival/Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/leor/Projects/festival/festival/Client/App.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leor/Projects/festival/festival/Client/Pages/Counter.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leor/Projects/festival/festival/Client/Pages/FetchData.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leor/Projects/festival/festival/Client/Pages/Index.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leor/Projects/festival/festival/Client/Shared/SurveyPrompt.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leor/Projects/festival/festival/Client/_Imports.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leor/Projects/festival/festival/Client/Shared/MainLayout.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-finrdggfr1
 
-[/Users/leor/Projects/festival/festival/Client/Shared/NavMenu.razor]
+[/Users/leor/musikfes/musikfestival-master/festival/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-aea38694ta

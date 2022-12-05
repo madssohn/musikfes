@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leor/Projects/festival/festival/Shared/festival.Shared.csproj",
+      "projectUniqueName": "/Users/leor/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj",
       "projectName": "festival.Shared",
-      "projectPath": "/Users/leor/Projects/festival/festival/Shared/festival.Shared.csproj",
+      "projectPath": "/Users/leor/musikfes/musikfestival-master/festival/Shared/festival.Shared.csproj",
       "packagesPath": "/Users/leor/.nuget/packages/",
-      "outputPath": "/Users/leor/Projects/festival/festival/Shared/obj/",
+      "outputPath": "/Users/leor/musikfes/musikfestival-master/festival/Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leor/.nuget/NuGet/NuGet.Config"
