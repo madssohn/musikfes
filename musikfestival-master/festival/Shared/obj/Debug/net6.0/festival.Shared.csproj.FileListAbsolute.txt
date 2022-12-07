@@ -10,3 +10,15 @@
 /Users/leor/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/refint/festival.Shared.dll
 /Users/leor/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.pdb
 /Users/leor/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/ref/festival.Shared.dll
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/bin/Debug/net6.0/festival.Shared.deps.json
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/bin/Debug/net6.0/festival.Shared.dll
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/bin/Debug/net6.0/festival.Shared.pdb
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.csproj.AssemblyReference.cache
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.AssemblyInfoInputs.cache
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.AssemblyInfo.cs
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.csproj.CoreCompileInputs.cache
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.dll
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/refint/festival.Shared.dll
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/festival.Shared.pdb
+/Users/madskraghsohn/Documents/musikfes/musikfestival-master/festival/Shared/obj/Debug/net6.0/ref/festival.Shared.dll
